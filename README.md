@@ -1,6 +1,6 @@
 ### Story of Me Life 👋🏾
 
-![](./misc/melife_meme.JPG)
+![](tosi-n/misc/melife_meme.JPG)
 
 
 
