@@ -1,7 +1,8 @@
 ### Story of Me Life 👋🏾
 
-![](misc/melife_meme.JPG)
+<!-- ![](misc/melife_meme.JPG) -->
 
+<img src="https://raw.githubusercontent.com/tosi-n/tosi-n/master/misc/melife_meme.JPG" alt="Me_Life">
 
 
 <!-- **tosi-n/tosi-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
