@@ -9,7 +9,9 @@
 
 
 <hr>
+
 > Just so you know:
+<hr>
 
 - 👨🏾‍💻👨🏾‍💻 I’m currently working @  [Logically](https://www.logically.ai) as an AI Developer/NLP Data Scientist...
 - 🧠🧠 I believe I have the mental capacity to expand on what I know...
